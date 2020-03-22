@@ -1,4 +1,4 @@
-# Study guides for shortened time frames
+# Study guides for shortened time frames (based on version 2.0.0 of the C++ edition)
 
 <table>
   <thead>
